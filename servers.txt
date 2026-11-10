@@ -1,0 +1,15 @@
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-218-220-209-82.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-127-7-109.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-113-153-66-199.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-230-229-81.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-18.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-58-136-183-235.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-8-199-141.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-125-195-98.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-141-30-170.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-192-121-223.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-52.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-211-135-11-53.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-82.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-128.ovpn
+https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-21.ovpn
