@@ -2,7 +2,7 @@ name: Update VPN Gate servers
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay a few minutes)
+    - cron: "0 * * * *"   # every hour (GitHub may delay a few minutes)
   workflow_dispatch:          # manual run button
 
 permissions:
