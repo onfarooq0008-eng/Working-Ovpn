@@ -12,10 +12,10 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 
-MAX_KEEP = int(os.getenv("MAX_KEEP", "30"))               # working servers to save
-MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "150"))  # servers to test
-WORKERS = int(os.getenv("WORKERS", "12"))
-TIMEOUT = int(os.getenv("TEST_TIMEOUT", "25"))            # seconds per server
+MAX_KEEP = int(os.getenv("MAX_KEEP", "100"))               # working servers to save
+MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "400"))  # servers to test
+WORKERS = int(os.getenv("WORKERS", "20"))
+TIMEOUT = int(os.getenv("TEST_TIMEOUT", "20"))            # seconds per server
 
 OUT = Path("servers")
 TMP = Path("/tmp/vpngate")
