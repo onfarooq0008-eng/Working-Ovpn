@@ -1,72 +1,77 @@
 # Working OpenVPN servers
 
-Updated: 2026-11-21 01:06 UTC
+Updated: 2026-11-21 09:14 UTC
 
 | Name | Source | Country | Speed (Mbps) | Link |
 |---|---|---|---|---|
-| JP-147-192-116-48 | vpngate | Japan | 937.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-147-192-116-48.ovpn) |
-| JP-118-104-230-203 | vpngate | Japan | 855.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-118-104-230-203.ovpn) |
-| JP-219-100-37-50 | vpngate | Japan | 826.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-50.ovpn) |
-| KR-222-102-95-219 | vpngate | Korea Republic of | 793.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-222-102-95-219.ovpn) |
-| KR-182-218-30-43 | vpngate | Korea Republic of | 776.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-182-218-30-43.ovpn) |
-| JP-219-100-37-177 | vpngate | Japan | 746.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-177.ovpn) |
-| JP-106-137-121-195 | vpngate | Japan | 745.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-106-137-121-195.ovpn) |
-| KR-125-134-3-152 | vpngate | Korea Republic of | 671.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-125-134-3-152.ovpn) |
-| JP-218-251-56-187 | vpngate | Japan | 633.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-218-251-56-187.ovpn) |
-| JP-126-214-203-87 | vpngate | Japan | 624.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-214-203-87.ovpn) |
-| JP-210-198-193-135 | vpngate | Japan | 606.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-198-193-135.ovpn) |
-| JP-112-69-10-38 | vpngate | Japan | 525.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-112-69-10-38.ovpn) |
-| JP-59-129-182-187 | vpngate | Japan | 498.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-59-129-182-187.ovpn) |
-| RO-217-138-212-62 | vpngate | Romania | 443.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RO-217-138-212-62.ovpn) |
-| JP-219-100-37-205 | vpngate | Japan | 407.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-205.ovpn) |
-| JP-219-100-37-199 | vpngate | Japan | 343.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-199.ovpn) |
-| KR-112-170-151-111 | vpngate | Korea Republic of | 341.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-112-170-151-111.ovpn) |
-| JP-219-100-37-3 | vpngate | Japan | 339.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-3.ovpn) |
-| KR-125-139-26-49 | vpngate | Korea Republic of | 321.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-125-139-26-49.ovpn) |
-| KR-222-234-186-190 | vpngate | Korea Republic of | 311.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-222-234-186-190.ovpn) |
-| JP-219-100-37-24 | vpngate | Japan | 300.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-24.ovpn) |
-| JP-219-100-37-162 | vpngate | Japan | 290.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-162.ovpn) |
-| KR-175-198-234-16 | vpngate | Korea Republic of | 284.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-175-198-234-16.ovpn) |
-| JP-219-100-37-89 | vpngate | Japan | 276.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-89.ovpn) |
-| JP-219-100-37-109 | vpngate | Japan | 266.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-109.ovpn) |
-| JP-219-100-37-91 | vpngate | Japan | 253.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-91.ovpn) |
-| RU-176-209-237-125 | vpngate | Russian Federation | 252.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-176-209-237-125.ovpn) |
-| JP-219-100-37-95 | vpngate | Japan | 242.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-95.ovpn) |
-| JP-219-100-37-192 | vpngate | Japan | 229.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-192.ovpn) |
-| JP-219-100-37-191 | vpngate | Japan | 228.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-191.ovpn) |
-| JP-219-100-37-213 | vpngate | Japan | 213.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-213.ovpn) |
-| JP-60-134-112-16 | vpngate | Japan | 203.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-134-112-16.ovpn) |
-| JP-106-155-1-178 | vpngate | Japan | 197.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-106-155-1-178.ovpn) |
-| JP-126-131-65-9 | vpngate | Japan | 193.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-131-65-9.ovpn) |
-| JP-153-198-175-207 | vpngate | Japan | 190.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-153-198-175-207.ovpn) |
-| CA-108-160-87-138 | vpngate | Canada | 182.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/CA-108-160-87-138.ovpn) |
-| VN-14-169-115-240 | vpngate | Viet Nam | 174.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/VN-14-169-115-240.ovpn) |
-| JP-219-100-37-223 | vpngate | Japan | 161.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-223.ovpn) |
-| RU-78-37-129-25 | vpngate | Russian Federation | 134.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-78-37-129-25.ovpn) |
-| KR-112-170-67-228 | vpngate | Korea Republic of | 125.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-112-170-67-228.ovpn) |
-| JP-203-165-155-236 | vpngate | Japan | 121.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-203-165-155-236.ovpn) |
-| JP-211-2-91-28 | vpngate | Japan | 120.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-211-2-91-28.ovpn) |
-| US-47-141-29-68 | vpngate | United States | 111.4 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/US-47-141-29-68.ovpn) |
-| JP-60-95-184-243 | vpngate | Japan | 107.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-95-184-243.ovpn) |
-| JP-126-26-219-99 | vpngate | Japan | 96.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-26-219-99.ovpn) |
-| KR-175-113-163-59 | vpngate | Korea Republic of | 93.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-175-113-163-59.ovpn) |
-| JP-123-1-29-132 | vpngate | Japan | 93.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-123-1-29-132.ovpn) |
-| KR-1-240-128-118 | vpngate | Korea Republic of | 91.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-1-240-128-118.ovpn) |
-| KR-121-128-227-42 | vpngate | Korea Republic of | 91.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-128-227-42.ovpn) |
-| JP-210-132-182-60 | vpngate | Japan | 85.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-132-182-60.ovpn) |
-| JP-210-239-247-25 | vpngate | Japan | 79.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-239-247-25.ovpn) |
-| JP-111-106-171-215 | vpngate | Japan | 78.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-111-106-171-215.ovpn) |
-| JP-58-85-46-71 | vpngate | Japan | 75.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-58-85-46-71.ovpn) |
-| RU-95-154-89-139 | vpngate | Russian Federation | 75.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-95-154-89-139.ovpn) |
-| KR-58-149-179-110 | vpngate | Korea Republic of | 72.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-58-149-179-110.ovpn) |
-| KR-14-47-236-43 | vpngate | Korea Republic of | 69.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-47-236-43.ovpn) |
-| KR-125-142-199-179 | vpngate | Korea Republic of | 69.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-125-142-199-179.ovpn) |
-| RU-178-68-65-125 | vpngate | Russian Federation | 69.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-178-68-65-125.ovpn) |
-| RU-83-246-250-20 | vpngate | Russian Federation | 52.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-83-246-250-20.ovpn) |
-| JP-58-190-26-205 | vpngate | Japan | 47.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-58-190-26-205.ovpn) |
-| ID-180-243-211-148 | vpngate | Indonesia | 46.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/ID-180-243-211-148.ovpn) |
-| RU-5-134-220-26 | vpngate | Russian Federation | 42.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-5-134-220-26.ovpn) |
-| RU-212-164-1-211 | vpngate | Russian Federation | 34.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-212-164-1-211.ovpn) |
-| KR-59-21-241-135 | vpngate | Korea Republic of | 33.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-21-241-135.ovpn) |
-| JP-210-134-203-207 | vpngate | Japan | 25.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-134-203-207.ovpn) |
-| KR-59-24-140-74 | vpngate | Korea Republic of | 24.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-24-140-74.ovpn) |
+| JP-118-104-133-8 | vpngate | Japan | 2692.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-118-104-133-8.ovpn) |
+| JP-219-211-210-169 | vpngate | Japan | 969.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-211-210-169.ovpn) |
+| JP-111-168-33-39 | vpngate | Japan | 871.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-111-168-33-39.ovpn) |
+| JP-90-149-85-59 | vpngate | Japan | 814.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-90-149-85-59.ovpn) |
+| KR-182-218-30-43 | vpngate | Korea Republic of | 712.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-182-218-30-43.ovpn) |
+| JP-180-36-178-143 | vpngate | Japan | 600.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-180-36-178-143.ovpn) |
+| JP-42-148-244-81 | vpngate | Japan | 600.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-42-148-244-81.ovpn) |
+| JP-219-100-37-18 | vpngate | Japan | 577.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-18.ovpn) |
+| JP-170-249-112-233 | vpngate | Japan | 569.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-170-249-112-233.ovpn) |
+| JP-210-239-229-12 | vpngate | Japan | 559.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-239-229-12.ovpn) |
+| JP-59-133-181-28 | vpngate | Japan | 532.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-59-133-181-28.ovpn) |
+| IN-49-207-205-216 | vpngate | India | 491.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/IN-49-207-205-216.ovpn) |
+| KR-211-213-23-156 | vpngate | Korea Republic of | 488.4 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-213-23-156.ovpn) |
+| JP-113-145-249-52 | vpngate | Japan | 484.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-113-145-249-52.ovpn) |
+| KR-116-37-252-7 | vpngate | Korea Republic of | 436.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-116-37-252-7.ovpn) |
+| KR-220-84-198-146 | vpngate | Korea Republic of | 433.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-84-198-146.ovpn) |
+| KR-121-165-50-89 | vpngate | Korea Republic of | 430.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-165-50-89.ovpn) |
+| KR-14-35-220-228 | vpngate | Korea Republic of | 428.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-35-220-228.ovpn) |
+| TH-27-130-86-233 | vpngate | Thailand | 354.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-86-233.ovpn) |
+| JP-219-100-37-52 | vpngate | Japan | 352.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-52.ovpn) |
+| JP-219-100-37-210 | vpngate | Japan | 344.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-210.ovpn) |
+| TH-27-130-196-110 | vpngate | Thailand | 334.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-196-110.ovpn) |
+| KR-211-54-227-47 | vpngate | Korea Republic of | 321.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-54-227-47.ovpn) |
+| JP-219-100-37-182 | vpngate | Japan | 314.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-182.ovpn) |
+| JP-60-153-147-72 | vpngate | Japan | 311.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-153-147-72.ovpn) |
+| JP-113-153-66-199 | vpngate | Japan | 303.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-113-153-66-199.ovpn) |
+| KR-119-196-135-141 | vpngate | Korea Republic of | 299.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-196-135-141.ovpn) |
+| TH-27-130-77-11 | vpngate | Thailand | 284.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-77-11.ovpn) |
+| KR-220-93-26-44 | vpngate | Korea Republic of | 263.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-93-26-44.ovpn) |
+| JP-133-32-46-220 | vpngate | Japan | 247.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-133-32-46-220.ovpn) |
+| JP-219-100-37-4 | vpngate | Japan | 246.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-4.ovpn) |
+| JP-219-100-37-95 | vpngate | Japan | 224.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-95.ovpn) |
+| JP-219-100-37-93 | vpngate | Japan | 219.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-93.ovpn) |
+| JP-219-100-37-9 | vpngate | Japan | 218.4 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-9.ovpn) |
+| JP-219-100-37-186 | vpngate | Japan | 214.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-186.ovpn) |
+| JP-219-100-37-20 | vpngate | Japan | 209.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-20.ovpn) |
+| JP-219-100-37-110 | vpngate | Japan | 185.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-110.ovpn) |
+| KR-210-105-53-66 | vpngate | Korea Republic of | 169.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-210-105-53-66.ovpn) |
+| JP-42-126-34-215 | vpngate | Japan | 166.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-42-126-34-215.ovpn) |
+| JP-218-220-64-94 | vpngate | Japan | 165.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-218-220-64-94.ovpn) |
+| JP-219-100-37-217 | vpngate | Japan | 163.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-217.ovpn) |
+| KR-183-98-22-140 | vpngate | Korea Republic of | 162.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-183-98-22-140.ovpn) |
+| JP-133-218-182-132 | vpngate | Japan | 157.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-133-218-182-132.ovpn) |
+| JP-219-100-37-222 | vpngate | Japan | 147.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-222.ovpn) |
+| JP-180-58-21-112 | vpngate | Japan | 135.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-180-58-21-112.ovpn) |
+| RU-95-24-183-250 | vpngate | Russian Federation | 126.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-95-24-183-250.ovpn) |
+| KR-121-148-211-228 | vpngate | Korea Republic of | 117.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-148-211-228.ovpn) |
+| KR-121-136-82-81 | vpngate | Korea Republic of | 115.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-136-82-81.ovpn) |
+| KR-14-45-235-224 | vpngate | Korea Republic of | 97.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-45-235-224.ovpn) |
+| KR-14-92-210-132 | vpngate | Korea Republic of | 97.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-92-210-132.ovpn) |
+| JP-222-2-27-194 | vpngate | Japan | 96.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-222-2-27-194.ovpn) |
+| JP-60-93-213-230 | vpngate | Japan | 95.4 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-93-213-230.ovpn) |
+| KR-218-237-44-234 | vpngate | Korea Republic of | 95.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-218-237-44-234.ovpn) |
+| JP-60-60-15-130 | vpngate | Japan | 94.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-60-15-130.ovpn) |
+| JP-126-77-72-127 | vpngate | Japan | 85.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-77-72-127.ovpn) |
+| KR-175-125-200-190 | vpngate | Korea Republic of | 81.4 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-175-125-200-190.ovpn) |
+| KR-59-21-104-173 | vpngate | Korea Republic of | 73.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-21-104-173.ovpn) |
+| KR-121-172-220-27 | vpngate | Korea Republic of | 70.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-172-220-27.ovpn) |
+| KR-59-2-25-58 | vpngate | Korea Republic of | 62.1 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-2-25-58.ovpn) |
+| KR-222-117-234-75 | vpngate | Korea Republic of | 52.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-222-117-234-75.ovpn) |
+| KR-121-160-77-177 | vpngate | Korea Republic of | 50.6 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-160-77-177.ovpn) |
+| KR-220-116-150-227 | vpngate | Korea Republic of | 42.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-116-150-227.ovpn) |
+| JP-211-128-17-88 | vpngate | Japan | 36.5 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-211-128-17-88.ovpn) |
+| KR-121-181-24-15 | vpngate | Korea Republic of | 34.7 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-181-24-15.ovpn) |
+| JP-138-64-250-139 | vpngate | Japan | 32.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-138-64-250-139.ovpn) |
+| RU-95-26-86-232 | vpngate | Russian Federation | 29.9 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-95-26-86-232.ovpn) |
+| RU-109-235-25-103 | vpngate | Russian Federation | 28.8 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-109-235-25-103.ovpn) |
+| US-174-108-123-250 | vpngate | United States | 23.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/US-174-108-123-250.ovpn) |
+| RU-217-144-174-117 | vpngate | Russian Federation | 19.0 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-217-144-174-117.ovpn) |
+| KR-119-207-13-123 | vpngate | Korea Republic of | 9.2 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-207-13-123.ovpn) |
+| RU-46-241-114-208 | vpngate | Russian Federation | 3.3 | [ovpn](https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-46-241-114-208.ovpn) |
