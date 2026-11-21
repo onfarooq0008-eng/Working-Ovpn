@@ -1,715 +1,505 @@
 {
-  "updated": "2026-11-21 09:14 UTC",
+  "updated": "2026-11-21 17:07 UTC",
   "servers": [
     {
-      "name": "JP-118-104-133-8",
+      "name": "JP-221-44-231-159",
       "source": "vpngate",
-      "ip": "118.104.133.8",
+      "ip": "221.44.231.159",
       "country": "Japan",
-      "speed_mbps": 2692.8,
-      "ping_ms": "7",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-118-104-133-8.ovpn"
+      "speed_mbps": 920.8,
+      "ping_ms": "5",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-221-44-231-159.ovpn"
     },
     {
-      "name": "JP-219-211-210-169",
+      "name": "JP-180-28-85-203",
       "source": "vpngate",
-      "ip": "219.211.210.169",
+      "ip": "180.28.85.203",
       "country": "Japan",
-      "speed_mbps": 969.6,
+      "speed_mbps": 756.5,
       "ping_ms": "4",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-211-210-169.ovpn"
-    },
-    {
-      "name": "JP-111-168-33-39",
-      "source": "vpngate",
-      "ip": "111.168.33.39",
-      "country": "Japan",
-      "speed_mbps": 871.1,
-      "ping_ms": "10",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-111-168-33-39.ovpn"
-    },
-    {
-      "name": "JP-90-149-85-59",
-      "source": "vpngate",
-      "ip": "90.149.85.59",
-      "country": "Japan",
-      "speed_mbps": 814.0,
-      "ping_ms": "2",
       "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-90-149-85-59.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-180-28-85-203.ovpn"
     },
     {
-      "name": "KR-182-218-30-43",
+      "name": "KR-119-195-5-247",
       "source": "vpngate",
-      "ip": "182.218.30.43",
+      "ip": "119.195.5.247",
       "country": "Korea Republic of",
-      "speed_mbps": 712.3,
-      "ping_ms": "37",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-182-218-30-43.ovpn"
-    },
-    {
-      "name": "JP-180-36-178-143",
-      "source": "vpngate",
-      "ip": "180.36.178.143",
-      "country": "Japan",
-      "speed_mbps": 600.3,
-      "ping_ms": "4",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-180-36-178-143.ovpn"
-    },
-    {
-      "name": "JP-42-148-244-81",
-      "source": "vpngate",
-      "ip": "42.148.244.81",
-      "country": "Japan",
-      "speed_mbps": 600.0,
-      "ping_ms": "23",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-42-148-244-81.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-18",
-      "source": "vpngate",
-      "ip": "219.100.37.18",
-      "country": "Japan",
-      "speed_mbps": 577.8,
-      "ping_ms": "13",
-      "connect_seconds": 7.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-18.ovpn"
-    },
-    {
-      "name": "JP-170-249-112-233",
-      "source": "vpngate",
-      "ip": "170.249.112.233",
-      "country": "Japan",
-      "speed_mbps": 569.6,
-      "ping_ms": "6",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-170-249-112-233.ovpn"
-    },
-    {
-      "name": "JP-210-239-229-12",
-      "source": "vpngate",
-      "ip": "210.239.229.12",
-      "country": "Japan",
-      "speed_mbps": 559.2,
-      "ping_ms": "28",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-239-229-12.ovpn"
-    },
-    {
-      "name": "JP-59-133-181-28",
-      "source": "vpngate",
-      "ip": "59.133.181.28",
-      "country": "Japan",
-      "speed_mbps": 532.5,
-      "ping_ms": "7",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-59-133-181-28.ovpn"
-    },
-    {
-      "name": "IN-49-207-205-216",
-      "source": "vpngate",
-      "ip": "49.207.205.216",
-      "country": "India",
-      "speed_mbps": 491.0,
-      "ping_ms": "9",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/IN-49-207-205-216.ovpn"
-    },
-    {
-      "name": "KR-211-213-23-156",
-      "source": "vpngate",
-      "ip": "211.213.23.156",
-      "country": "Korea Republic of",
-      "speed_mbps": 488.4,
-      "ping_ms": "37",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-213-23-156.ovpn"
-    },
-    {
-      "name": "JP-113-145-249-52",
-      "source": "vpngate",
-      "ip": "113.145.249.52",
-      "country": "Japan",
-      "speed_mbps": 484.1,
+      "speed_mbps": 581.3,
       "ping_ms": "25",
       "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-113-145-249-52.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-195-5-247.ovpn"
     },
     {
-      "name": "KR-116-37-252-7",
+      "name": "KR-114-200-185-104",
       "source": "vpngate",
-      "ip": "116.37.252.7",
+      "ip": "114.200.185.104",
       "country": "Korea Republic of",
-      "speed_mbps": 436.9,
-      "ping_ms": "40",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-116-37-252-7.ovpn"
+      "speed_mbps": 496.8,
+      "ping_ms": "38",
+      "connect_seconds": 2.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-114-200-185-104.ovpn"
     },
     {
-      "name": "KR-220-84-198-146",
+      "name": "KR-211-117-54-119",
       "source": "vpngate",
-      "ip": "220.84.198.146",
+      "ip": "211.117.54.119",
       "country": "Korea Republic of",
-      "speed_mbps": 433.2,
-      "ping_ms": "25",
+      "speed_mbps": 454.9,
+      "ping_ms": "34",
       "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-84-198-146.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-117-54-119.ovpn"
+    },
+    {
+      "name": "NZ-203-109-204-188",
+      "source": "vpngate",
+      "ip": "203.109.204.188",
+      "country": "New Zealand",
+      "speed_mbps": 437.2,
+      "ping_ms": "30",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/NZ-203-109-204-188.ovpn"
+    },
+    {
+      "name": "JP-210-224-227-71",
+      "source": "vpngate",
+      "ip": "210.224.227.71",
+      "country": "Japan",
+      "speed_mbps": 360.1,
+      "ping_ms": "21",
+      "connect_seconds": 2.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-210-224-227-71.ovpn"
+    },
+    {
+      "name": "TH-27-130-21-238",
+      "source": "vpngate",
+      "ip": "27.130.21.238",
+      "country": "Thailand",
+      "speed_mbps": 357.3,
+      "ping_ms": "3",
+      "connect_seconds": 2.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-21-238.ovpn"
     },
     {
       "name": "KR-121-165-50-89",
       "source": "vpngate",
       "ip": "121.165.50.89",
       "country": "Korea Republic of",
-      "speed_mbps": 430.6,
+      "speed_mbps": 340.3,
       "ping_ms": "31",
       "connect_seconds": 3.0,
       "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-165-50-89.ovpn"
     },
     {
-      "name": "KR-14-35-220-228",
+      "name": "KR-121-176-228-194",
       "source": "vpngate",
-      "ip": "14.35.220.228",
+      "ip": "121.176.228.194",
       "country": "Korea Republic of",
-      "speed_mbps": 428.5,
-      "ping_ms": "31",
+      "speed_mbps": 319.4,
+      "ping_ms": "26",
       "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-35-220-228.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-176-228-194.ovpn"
     },
     {
-      "name": "TH-27-130-86-233",
+      "name": "JP-126-79-124-253",
       "source": "vpngate",
-      "ip": "27.130.86.233",
+      "ip": "126.79.124.253",
+      "country": "Japan",
+      "speed_mbps": 298.0,
+      "ping_ms": "2",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-79-124-253.ovpn"
+    },
+    {
+      "name": "TH-27-130-36-248",
+      "source": "vpngate",
+      "ip": "27.130.36.248",
       "country": "Thailand",
-      "speed_mbps": 354.8,
+      "speed_mbps": 283.3,
+      "ping_ms": "3",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-36-248.ovpn"
+    },
+    {
+      "name": "KR-169-211-249-189",
+      "source": "vpngate",
+      "ip": "169.211.249.189",
+      "country": "Korea Republic of",
+      "speed_mbps": 282.8,
+      "ping_ms": "29",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-169-211-249-189.ovpn"
+    },
+    {
+      "name": "JP-126-75-85-180",
+      "source": "vpngate",
+      "ip": "126.75.85.180",
+      "country": "Japan",
+      "speed_mbps": 274.7,
+      "ping_ms": "4",
+      "connect_seconds": 2.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-75-85-180.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-164",
+      "source": "vpngate",
+      "ip": "219.100.37.164",
+      "country": "Japan",
+      "speed_mbps": 258.2,
+      "ping_ms": "11",
+      "connect_seconds": 6.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-164.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-220",
+      "source": "vpngate",
+      "ip": "219.100.37.220",
+      "country": "Japan",
+      "speed_mbps": 254.7,
       "ping_ms": "8",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-86-233.ovpn"
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-220.ovpn"
     },
     {
-      "name": "JP-219-100-37-52",
+      "name": "KR-115-22-223-14",
       "source": "vpngate",
-      "ip": "219.100.37.52",
-      "country": "Japan",
-      "speed_mbps": 352.8,
-      "ping_ms": "20",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-52.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-210",
-      "source": "vpngate",
-      "ip": "219.100.37.210",
-      "country": "Japan",
-      "speed_mbps": 344.6,
-      "ping_ms": "30",
-      "connect_seconds": 4.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-210.ovpn"
-    },
-    {
-      "name": "TH-27-130-196-110",
-      "source": "vpngate",
-      "ip": "27.130.196.110",
-      "country": "Thailand",
-      "speed_mbps": 334.9,
-      "ping_ms": "9",
-      "connect_seconds": 4.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-196-110.ovpn"
-    },
-    {
-      "name": "KR-211-54-227-47",
-      "source": "vpngate",
-      "ip": "211.54.227.47",
+      "ip": "115.22.223.14",
       "country": "Korea Republic of",
-      "speed_mbps": 321.8,
-      "ping_ms": "30",
+      "speed_mbps": 254.7,
+      "ping_ms": "25",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-115-22-223-14.ovpn"
+    },
+    {
+      "name": "TH-27-130-18-216",
+      "source": "vpngate",
+      "ip": "27.130.18.216",
+      "country": "Thailand",
+      "speed_mbps": 249.5,
+      "ping_ms": "3",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-18-216.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-170",
+      "source": "vpngate",
+      "ip": "219.100.37.170",
+      "country": "Japan",
+      "speed_mbps": 231.4,
+      "ping_ms": "14",
       "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-211-54-227-47.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-170.ovpn"
+    },
+    {
+      "name": "JP-27-138-128-11",
+      "source": "vpngate",
+      "ip": "27.138.128.11",
+      "country": "Japan",
+      "speed_mbps": 225.0,
+      "ping_ms": "17",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-27-138-128-11.ovpn"
     },
     {
       "name": "JP-219-100-37-182",
       "source": "vpngate",
       "ip": "219.100.37.182",
       "country": "Japan",
-      "speed_mbps": 314.6,
-      "ping_ms": "10",
-      "connect_seconds": 3.5,
+      "speed_mbps": 224.0,
+      "ping_ms": "14",
+      "connect_seconds": 3.0,
       "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-182.ovpn"
     },
     {
-      "name": "JP-60-153-147-72",
+      "name": "JP-219-100-37-115",
       "source": "vpngate",
-      "ip": "60.153.147.72",
+      "ip": "219.100.37.115",
       "country": "Japan",
-      "speed_mbps": 311.6,
-      "ping_ms": "15",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-153-147-72.ovpn"
-    },
-    {
-      "name": "JP-113-153-66-199",
-      "source": "vpngate",
-      "ip": "113.153.66.199",
-      "country": "Japan",
-      "speed_mbps": 303.1,
-      "ping_ms": "4",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-113-153-66-199.ovpn"
-    },
-    {
-      "name": "KR-119-196-135-141",
-      "source": "vpngate",
-      "ip": "119.196.135.141",
-      "country": "Korea Republic of",
-      "speed_mbps": 299.0,
-      "ping_ms": "33",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-196-135-141.ovpn"
-    },
-    {
-      "name": "TH-27-130-77-11",
-      "source": "vpngate",
-      "ip": "27.130.77.11",
-      "country": "Thailand",
-      "speed_mbps": 284.2,
-      "ping_ms": "6",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/TH-27-130-77-11.ovpn"
-    },
-    {
-      "name": "KR-220-93-26-44",
-      "source": "vpngate",
-      "ip": "220.93.26.44",
-      "country": "Korea Republic of",
-      "speed_mbps": 263.2,
-      "ping_ms": "29",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-93-26-44.ovpn"
-    },
-    {
-      "name": "JP-133-32-46-220",
-      "source": "vpngate",
-      "ip": "133.32.46.220",
-      "country": "Japan",
-      "speed_mbps": 247.1,
-      "ping_ms": "90",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-133-32-46-220.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-4",
-      "source": "vpngate",
-      "ip": "219.100.37.4",
-      "country": "Japan",
-      "speed_mbps": 246.5,
-      "ping_ms": "9",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-4.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-95",
-      "source": "vpngate",
-      "ip": "219.100.37.95",
-      "country": "Japan",
-      "speed_mbps": 224.0,
-      "ping_ms": "8",
-      "connect_seconds": 8.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-95.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-93",
-      "source": "vpngate",
-      "ip": "219.100.37.93",
-      "country": "Japan",
-      "speed_mbps": 219.7,
-      "ping_ms": "26",
-      "connect_seconds": 6.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-93.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-9",
-      "source": "vpngate",
-      "ip": "219.100.37.9",
-      "country": "Japan",
-      "speed_mbps": 218.4,
-      "ping_ms": "25",
-      "connect_seconds": 6.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-9.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-186",
-      "source": "vpngate",
-      "ip": "219.100.37.186",
-      "country": "Japan",
-      "speed_mbps": 214.7,
-      "ping_ms": "9",
-      "connect_seconds": 4.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-186.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-20",
-      "source": "vpngate",
-      "ip": "219.100.37.20",
-      "country": "Japan",
-      "speed_mbps": 209.5,
-      "ping_ms": "9",
-      "connect_seconds": 6.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-20.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-110",
-      "source": "vpngate",
-      "ip": "219.100.37.110",
-      "country": "Japan",
-      "speed_mbps": 185.8,
-      "ping_ms": "16",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-110.ovpn"
-    },
-    {
-      "name": "KR-210-105-53-66",
-      "source": "vpngate",
-      "ip": "210.105.53.66",
-      "country": "Korea Republic of",
-      "speed_mbps": 169.0,
-      "ping_ms": "29",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-210-105-53-66.ovpn"
-    },
-    {
-      "name": "JP-42-126-34-215",
-      "source": "vpngate",
-      "ip": "42.126.34.215",
-      "country": "Japan",
-      "speed_mbps": 166.3,
-      "ping_ms": "22",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-42-126-34-215.ovpn"
-    },
-    {
-      "name": "JP-218-220-64-94",
-      "source": "vpngate",
-      "ip": "218.220.64.94",
-      "country": "Japan",
-      "speed_mbps": 165.5,
-      "ping_ms": "13",
-      "connect_seconds": 4.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-218-220-64-94.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-217",
-      "source": "vpngate",
-      "ip": "219.100.37.217",
-      "country": "Japan",
-      "speed_mbps": 163.6,
-      "ping_ms": "16",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-217.ovpn"
-    },
-    {
-      "name": "KR-183-98-22-140",
-      "source": "vpngate",
-      "ip": "183.98.22.140",
-      "country": "Korea Republic of",
-      "speed_mbps": 162.1,
-      "ping_ms": "33",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-183-98-22-140.ovpn"
-    },
-    {
-      "name": "JP-133-218-182-132",
-      "source": "vpngate",
-      "ip": "133.218.182.132",
-      "country": "Japan",
-      "speed_mbps": 157.0,
-      "ping_ms": "2",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-133-218-182-132.ovpn"
-    },
-    {
-      "name": "JP-219-100-37-222",
-      "source": "vpngate",
-      "ip": "219.100.37.222",
-      "country": "Japan",
-      "speed_mbps": 147.6,
-      "ping_ms": "11",
-      "connect_seconds": 4.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-222.ovpn"
-    },
-    {
-      "name": "JP-180-58-21-112",
-      "source": "vpngate",
-      "ip": "180.58.21.112",
-      "country": "Japan",
-      "speed_mbps": 135.5,
-      "ping_ms": "6",
-      "connect_seconds": 4.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-180-58-21-112.ovpn"
-    },
-    {
-      "name": "RU-95-24-183-250",
-      "source": "vpngate",
-      "ip": "95.24.183.250",
-      "country": "Russian Federation",
-      "speed_mbps": 126.8,
-      "ping_ms": "18",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-95-24-183-250.ovpn"
-    },
-    {
-      "name": "KR-121-148-211-228",
-      "source": "vpngate",
-      "ip": "121.148.211.228",
-      "country": "Korea Republic of",
-      "speed_mbps": 117.2,
-      "ping_ms": "31",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-148-211-228.ovpn"
-    },
-    {
-      "name": "KR-121-136-82-81",
-      "source": "vpngate",
-      "ip": "121.136.82.81",
-      "country": "Korea Republic of",
-      "speed_mbps": 115.3,
+      "speed_mbps": 217.9,
       "ping_ms": "30",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-136-82-81.ovpn"
-    },
-    {
-      "name": "KR-14-45-235-224",
-      "source": "vpngate",
-      "ip": "14.45.235.224",
-      "country": "Korea Republic of",
-      "speed_mbps": 97.6,
-      "ping_ms": "25",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-45-235-224.ovpn"
-    },
-    {
-      "name": "KR-14-92-210-132",
-      "source": "vpngate",
-      "ip": "14.92.210.132",
-      "country": "Korea Republic of",
-      "speed_mbps": 97.0,
-      "ping_ms": "41",
-      "connect_seconds": 4.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-92-210-132.ovpn"
-    },
-    {
-      "name": "JP-222-2-27-194",
-      "source": "vpngate",
-      "ip": "222.2.27.194",
-      "country": "Japan",
-      "speed_mbps": 96.6,
-      "ping_ms": "6",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-222-2-27-194.ovpn"
-    },
-    {
-      "name": "JP-60-93-213-230",
-      "source": "vpngate",
-      "ip": "60.93.213.230",
-      "country": "Japan",
-      "speed_mbps": 95.4,
-      "ping_ms": "5",
-      "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-93-213-230.ovpn"
-    },
-    {
-      "name": "KR-218-237-44-234",
-      "source": "vpngate",
-      "ip": "218.237.44.234",
-      "country": "Korea Republic of",
-      "speed_mbps": 95.3,
-      "ping_ms": "38",
       "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-218-237-44-234.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-115.ovpn"
     },
     {
-      "name": "JP-60-60-15-130",
+      "name": "JP-219-100-37-211",
       "source": "vpngate",
-      "ip": "60.60.15.130",
+      "ip": "219.100.37.211",
       "country": "Japan",
-      "speed_mbps": 94.9,
-      "ping_ms": "25",
+      "speed_mbps": 211.6,
+      "ping_ms": "9",
       "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-60-15-130.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-211.ovpn"
     },
     {
-      "name": "JP-126-77-72-127",
+      "name": "JP-219-100-37-201",
       "source": "vpngate",
-      "ip": "126.77.72.127",
+      "ip": "219.100.37.201",
       "country": "Japan",
-      "speed_mbps": 85.6,
-      "ping_ms": "6",
+      "speed_mbps": 201.9,
+      "ping_ms": "11",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-201.ovpn"
+    },
+    {
+      "name": "JP-122-197-64-42",
+      "source": "vpngate",
+      "ip": "122.197.64.42",
+      "country": "Japan",
+      "speed_mbps": 197.9,
+      "ping_ms": "27",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-122-197-64-42.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-8",
+      "source": "vpngate",
+      "ip": "219.100.37.8",
+      "country": "Japan",
+      "speed_mbps": 192.5,
+      "ping_ms": "22",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-8.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-176",
+      "source": "vpngate",
+      "ip": "219.100.37.176",
+      "country": "Japan",
+      "speed_mbps": 179.8,
+      "ping_ms": "10",
       "connect_seconds": 2.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-126-77-72-127.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-176.ovpn"
     },
     {
-      "name": "KR-175-125-200-190",
+      "name": "JP-219-100-37-25",
       "source": "vpngate",
-      "ip": "175.125.200.190",
-      "country": "Korea Republic of",
-      "speed_mbps": 81.4,
-      "ping_ms": "28",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-175-125-200-190.ovpn"
-    },
-    {
-      "name": "KR-59-21-104-173",
-      "source": "vpngate",
-      "ip": "59.21.104.173",
-      "country": "Korea Republic of",
-      "speed_mbps": 73.6,
-      "ping_ms": "32",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-21-104-173.ovpn"
-    },
-    {
-      "name": "KR-121-172-220-27",
-      "source": "vpngate",
-      "ip": "121.172.220.27",
-      "country": "Korea Republic of",
-      "speed_mbps": 70.5,
-      "ping_ms": "33",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-172-220-27.ovpn"
-    },
-    {
-      "name": "KR-59-2-25-58",
-      "source": "vpngate",
-      "ip": "59.2.25.58",
-      "country": "Korea Republic of",
-      "speed_mbps": 62.1,
-      "ping_ms": "28",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-59-2-25-58.ovpn"
-    },
-    {
-      "name": "KR-222-117-234-75",
-      "source": "vpngate",
-      "ip": "222.117.234.75",
-      "country": "Korea Republic of",
-      "speed_mbps": 52.7,
-      "ping_ms": "31",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-222-117-234-75.ovpn"
-    },
-    {
-      "name": "KR-121-160-77-177",
-      "source": "vpngate",
-      "ip": "121.160.77.177",
-      "country": "Korea Republic of",
-      "speed_mbps": 50.6,
-      "ping_ms": "32",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-160-77-177.ovpn"
-    },
-    {
-      "name": "KR-220-116-150-227",
-      "source": "vpngate",
-      "ip": "220.116.150.227",
-      "country": "Korea Republic of",
-      "speed_mbps": 42.3,
-      "ping_ms": "34",
-      "connect_seconds": 3.5,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-116-150-227.ovpn"
-    },
-    {
-      "name": "JP-211-128-17-88",
-      "source": "vpngate",
-      "ip": "211.128.17.88",
+      "ip": "219.100.37.25",
       "country": "Japan",
-      "speed_mbps": 36.5,
+      "speed_mbps": 169.6,
+      "ping_ms": "26",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-25.ovpn"
+    },
+    {
+      "name": "JP-220-146-158-204",
+      "source": "vpngate",
+      "ip": "220.146.158.204",
+      "country": "Japan",
+      "speed_mbps": 164.1,
+      "ping_ms": "2",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-220-146-158-204.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-27",
+      "source": "vpngate",
+      "ip": "219.100.37.27",
+      "country": "Japan",
+      "speed_mbps": 160.4,
       "ping_ms": "9",
       "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-211-128-17-88.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-27.ovpn"
     },
     {
-      "name": "KR-121-181-24-15",
+      "name": "JP-219-100-37-204",
       "source": "vpngate",
-      "ip": "121.181.24.15",
+      "ip": "219.100.37.204",
+      "country": "Japan",
+      "speed_mbps": 149.7,
+      "ping_ms": "16",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-204.ovpn"
+    },
+    {
+      "name": "US-156-47-87-249",
+      "source": "vpngate",
+      "ip": "156.47.87.249",
+      "country": "United States",
+      "speed_mbps": 128.6,
+      "ping_ms": "-",
+      "connect_seconds": 2.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/US-156-47-87-249.ovpn"
+    },
+    {
+      "name": "RU-2-61-62-61",
+      "source": "vpngate",
+      "ip": "2.61.62.61",
+      "country": "Russian Federation",
+      "speed_mbps": 115.6,
+      "ping_ms": "-",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-2-61-62-61.ovpn"
+    },
+    {
+      "name": "JP-219-100-37-219",
+      "source": "vpngate",
+      "ip": "219.100.37.219",
+      "country": "Japan",
+      "speed_mbps": 110.9,
+      "ping_ms": "8",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-219-100-37-219.ovpn"
+    },
+    {
+      "name": "RU-37-22-91-153",
+      "source": "vpngate",
+      "ip": "37.22.91.153",
+      "country": "Russian Federation",
+      "speed_mbps": 110.3,
+      "ping_ms": "87",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-37-22-91-153.ovpn"
+    },
+    {
+      "name": "KR-220-123-111-167",
+      "source": "vpngate",
+      "ip": "220.123.111.167",
       "country": "Korea Republic of",
-      "speed_mbps": 34.7,
+      "speed_mbps": 102.8,
+      "ping_ms": "26",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-220-123-111-167.ovpn"
+    },
+    {
+      "name": "KR-125-148-227-117",
+      "source": "vpngate",
+      "ip": "125.148.227.117",
+      "country": "Korea Republic of",
+      "speed_mbps": 91.0,
+      "ping_ms": "31",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-125-148-227-117.ovpn"
+    },
+    {
+      "name": "KR-210-222-103-52",
+      "source": "vpngate",
+      "ip": "210.222.103.52",
+      "country": "Korea Republic of",
+      "speed_mbps": 90.7,
+      "ping_ms": "33",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-210-222-103-52.ovpn"
+    },
+    {
+      "name": "KR-183-104-12-140",
+      "source": "vpngate",
+      "ip": "183.104.12.140",
+      "country": "Korea Republic of",
+      "speed_mbps": 90.2,
+      "ping_ms": "24",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-183-104-12-140.ovpn"
+    },
+    {
+      "name": "KR-49-174-213-183",
+      "source": "vpngate",
+      "ip": "49.174.213.183",
+      "country": "Korea Republic of",
+      "speed_mbps": 89.6,
+      "ping_ms": "39",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-49-174-213-183.ovpn"
+    },
+    {
+      "name": "JP-122-197-135-133",
+      "source": "vpngate",
+      "ip": "122.197.135.133",
+      "country": "Japan",
+      "speed_mbps": 87.1,
+      "ping_ms": "21",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-122-197-135-133.ovpn"
+    },
+    {
+      "name": "KR-210-113-225-149",
+      "source": "vpngate",
+      "ip": "210.113.225.149",
+      "country": "Korea Republic of",
+      "speed_mbps": 85.4,
+      "ping_ms": "24",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-210-113-225-149.ovpn"
+    },
+    {
+      "name": "KR-14-47-79-84",
+      "source": "vpngate",
+      "ip": "14.47.79.84",
+      "country": "Korea Republic of",
+      "speed_mbps": 77.8,
+      "ping_ms": "31",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-14-47-79-84.ovpn"
+    },
+    {
+      "name": "KR-180-65-115-39",
+      "source": "vpngate",
+      "ip": "180.65.115.39",
+      "country": "Korea Republic of",
+      "speed_mbps": 76.9,
+      "ping_ms": "39",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-180-65-115-39.ovpn"
+    },
+    {
+      "name": "KR-121-139-53-139",
+      "source": "vpngate",
+      "ip": "121.139.53.139",
+      "country": "Korea Republic of",
+      "speed_mbps": 75.4,
+      "ping_ms": "28",
+      "connect_seconds": 3.0,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-139-53-139.ovpn"
+    },
+    {
+      "name": "JP-60-236-15-105",
+      "source": "vpngate",
+      "ip": "60.236.15.105",
+      "country": "Japan",
+      "speed_mbps": 50.3,
       "ping_ms": "23",
       "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-121-181-24-15.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-60-236-15-105.ovpn"
     },
     {
-      "name": "JP-138-64-250-139",
+      "name": "VN-118-68-183-22",
       "source": "vpngate",
-      "ip": "138.64.250.139",
+      "ip": "118.68.183.22",
+      "country": "Viet Nam",
+      "speed_mbps": 35.4,
+      "ping_ms": "30",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/VN-118-68-183-22.ovpn"
+    },
+    {
+      "name": "RU-109-226-248-214",
+      "source": "vpngate",
+      "ip": "109.226.248.214",
+      "country": "Russian Federation",
+      "speed_mbps": 35.2,
+      "ping_ms": "83",
+      "connect_seconds": 4.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-109-226-248-214.ovpn"
+    },
+    {
+      "name": "JP-115-179-206-241",
+      "source": "vpngate",
+      "ip": "115.179.206.241",
       "country": "Japan",
-      "speed_mbps": 32.9,
-      "ping_ms": "7",
+      "speed_mbps": 35.1,
+      "ping_ms": "13",
       "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-138-64-250-139.ovpn"
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/JP-115-179-206-241.ovpn"
     },
     {
-      "name": "RU-95-26-86-232",
+      "name": "KR-119-194-87-227",
       "source": "vpngate",
-      "ip": "95.26.86.232",
-      "country": "Russian Federation",
-      "speed_mbps": 29.9,
-      "ping_ms": "28",
-      "connect_seconds": 2.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-95-26-86-232.ovpn"
-    },
-    {
-      "name": "RU-109-235-25-103",
-      "source": "vpngate",
-      "ip": "109.235.25.103",
-      "country": "Russian Federation",
-      "speed_mbps": 28.8,
-      "ping_ms": "41",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-109-235-25-103.ovpn"
-    },
-    {
-      "name": "US-174-108-123-250",
-      "source": "vpngate",
-      "ip": "174.108.123.250",
-      "country": "United States",
-      "speed_mbps": 23.3,
-      "ping_ms": "35",
-      "connect_seconds": 2.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/US-174-108-123-250.ovpn"
-    },
-    {
-      "name": "RU-217-144-174-117",
-      "source": "vpngate",
-      "ip": "217.144.174.117",
-      "country": "Russian Federation",
-      "speed_mbps": 19.0,
-      "ping_ms": "72",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-217-144-174-117.ovpn"
-    },
-    {
-      "name": "KR-119-207-13-123",
-      "source": "vpngate",
-      "ip": "119.207.13.123",
+      "ip": "119.194.87.227",
       "country": "Korea Republic of",
-      "speed_mbps": 9.2,
-      "ping_ms": "53",
-      "connect_seconds": 3.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-207-13-123.ovpn"
-    },
-    {
-      "name": "RU-46-241-114-208",
-      "source": "vpngate",
-      "ip": "46.241.114.208",
-      "country": "Russian Federation",
-      "speed_mbps": 3.3,
-      "ping_ms": "79",
-      "connect_seconds": 5.0,
-      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/RU-46-241-114-208.ovpn"
+      "speed_mbps": 33.8,
+      "ping_ms": "33",
+      "connect_seconds": 3.5,
+      "url": "https://raw.githubusercontent.com/onfarooq0008-eng/Working-Ovpn/main/servers/KR-119-194-87-227.ovpn"
     }
   ]
 }
